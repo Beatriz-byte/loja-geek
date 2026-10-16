@@ -1,0 +1,3 @@
+.pagina-produtos { padding: 40px 20px; text-align: center; }
+.pagina-produtos h2 { font-size: 32px; margin-bottom: 30px; color: #111827; }
+.lista-produtos { display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; }
